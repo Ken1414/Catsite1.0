@@ -25,13 +25,16 @@ Currently, we only have Japanese available, so we apologize for the inconvenienc
  Keyboard color (from RGB)<br>
  
  <img width="467" alt="スクリーンショット 2023-12-02 16 13 33" src="https://github.com/Ken1414/Catsite1.0/assets/116622288/cf1be3c8-91aa-4f3a-b387-1dfd3094bcd0">
+ <br>
  Enter and click the "Run" button on the left.<br>
  
+ <br>
  At this time, the button on the right resets the input value. Be careful not to operate incorrectly.
 
 ③After a few seconds, the results will be displayed within the frame.<br>
 
-<img width="718" alt="スクリーンショット 2023-12-02 16 15 28" src="https://github.com/Ken1414/Catsite1.0/assets/116622288/abde212b-7acf-4c72-834f-49b568afc2bb">
+<img width="718" alt="スクリーンショット 2023-12-02 16 15 28" src="https://github.com/Ken1414/Catsite1.0/assets/116622288/abde212b-7acf-4c72-834f-49b568afc2bb"><br>
+<br>
  The button at the bottom outside the frame returns the page to its initial state. Be careful not to operate incorrectly.
  <br>
 
