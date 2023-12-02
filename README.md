@@ -1,7 +1,6 @@
-編集前！！編集前！！公開しちゃダメ！！
-ファイルのアップロード内容も刻んで更新しないとお前死ぬぞ
-*This program is currently under development and the code is insufficient as it is in the early stages. Also, there are no plans to release BOT.
+*This source code is a proofreading program called ``copycat,'' which analyzes synthesia videos (mp4 files) and extracts the sounds played in alphabetical notation, and has been expanded to run in a browser.
 
+*I'm not very good at using github, so I don't know how to contact the poster of copycat, so I'm making changes on my own, so if I receive a request for deletion, I'll respond immediately.
 
 
 
