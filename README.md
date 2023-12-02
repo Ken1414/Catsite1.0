@@ -7,9 +7,9 @@
 
 ## **Introduction**
 
-This program is a DiscordBOT development program created with Replit.
+As mentioned above, this program is an improved version of ''copycat'', which allows you to analyze mp4 format synthesia gameplay videos, convert them to alphabetical notation, and display them on both the terminal and browser.
 
-The purpose is to set prohibited words using chat commands, automatically delete prohibited words in the list if they are included in a sentence, and to manage words that can be restricted according to user privileges.
+In addition, it can be operated using only a browser, but the analysis itself is in the early stages and may take some time.
 
 ## **Feature**
 
@@ -43,14 +43,10 @@ will be deleted in response.
 
 ## **Development environments**
 
-【Editor】 Replit w/python3-
+【Editor】 Visual Studio Code w/python3.11.1 64-bit
 
 
-https://replit.com/~
+[https://replit.com/~](https://code.visualstudio.com/)https://code.visualstudio.com/
 
 
-【Monitor】 UptimeRobot
-
-
-https://uptimerobot.com/
 
