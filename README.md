@@ -1,6 +1,6 @@
-*This source code is a proofreading program called ``copycat,'' which analyzes synthesia videos (mp4 files) and extracts the sounds played in alphabetical notation, and has been expanded to run in a browser.
+*This source code is a proofreading and extension of the program ''copycat'', which analyzes synthesizer's screen recording video (mp4 file) and extracts the audio played in alphabetical notation, so that it runs on a browser.
 
-*I'm not very good at using github, so I don't know how to contact the poster of copycat, so I'm making changes on my own, so if I receive a request for deletion, I'll respond immediately.
+*I'm not very good at using github, so I don't know how to contact the poster of ''copycat'', so I'm making changes on my own, so if I receive a request for deletion, I'll respond immediately.
 
 
 
