@@ -18,11 +18,11 @@ Currently, we only have Japanese available, so we apologize for the inconvenienc
 ① Specify the video path in files<br>
 
 ② (from top to bottom)<br>
- File name (including .mp4)<br>
- First note (A0 to C9 on the leftmost keyboard)<br>
- Song tempo (3-digit BPM)<br>
- Start time (time to cut until notes touch)<br>
- Keyboard color (from RGB)<br>
+ * File name (including .mp4)<br>
+ * First note (A0 to C9 on the leftmost keyboard)<br>
+ * Song tempo (3-digit BPM)<br>
+ * Start time (time to cut until notes touch)<br>
+ * Keyboard color (from RGB)<br>
  <br>
  <img width="467" alt="スクリーンショット 2023-12-02 16 13 33" src="https://github.com/Ken1414/Catsite1.0/assets/116622288/cf1be3c8-91aa-4f3a-b387-1dfd3094bcd0">
  <br>
